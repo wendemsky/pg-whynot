@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/c/Users/himan/Documents/Personal/NUS/Coursework/Semester 3/CS5421 - Database Tuning/Project/src\")",
+      "Bash(mkdir -p \"/c/Users/himan/Documents/Personal/NUS/Coursework/Semester 3/CS5421 - Database Tuning/Project/benchmark\")",
+      "Bash(mkdir -p \"/c/Users/himan/Documents/Personal/NUS/Coursework/Semester 3/CS5421 - Database Tuning/Project/queries\")",
+      "Bash(source venv/Scripts/activate)",
+      "Bash(python -c \":*)",
+      "Bash(python cli.py benchmark correctness)"
+    ]
+  }
+}

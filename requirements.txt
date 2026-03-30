@@ -1,0 +1,5 @@
+psycopg2-binary   # PostgreSQL adapter
+python-dotenv     # Load .env credentials
+sqlparse          # SQL tokenisation (used for future extensions)
+pandas            # Result tables and benchmark CSV export
+matplotlib        # Performance graphs
